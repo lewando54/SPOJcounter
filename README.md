@@ -1,4 +1,4 @@
-#SPOJcounter
+# SPOJcounter
 
 Jest to program do zliczania wykonanych zadań na polskim SPOJ'u. 
 Działa on na zasadzie Web Scraping'u, czyli metodzie w której program zachowuje się jak użytkownik przeglądarki i pobiera interesujące go dane z witryny.

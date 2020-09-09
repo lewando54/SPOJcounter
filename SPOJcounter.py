@@ -54,5 +54,5 @@ else:
     if pytanie == "t":
         print("Oto ich nazwy:")
         for x in zadania:
-            print(x,", ")
+            print(x, end=", ")
 

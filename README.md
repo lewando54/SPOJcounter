@@ -6,7 +6,7 @@ Wystarczy tylko podać nazwę użytkownika, a program sam zrobi resztę.
 
 ## Instalacja pakietów
 
-Aby program działał, należy zainstalować następujące pakiety:
+Aby program uruchamiany przy pomocy Pythona działał, należy zainstalować następujące pakiety:
 ```bash
 pip install requests
 pip install bs4

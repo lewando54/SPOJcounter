@@ -38,8 +38,9 @@ else:
     for tr in rows:
         td = tr.find_all('td')
         for i in td:
-            ilosc = ilosc + 1
-            zadania.append(i.text)
+            if(i.text is not ""):
+                ilosc = ilosc + 1
+                zadania.append(i.text)
             
     print("Zrobiłeś", ilosc, "zadań na SPOJ'u")
 

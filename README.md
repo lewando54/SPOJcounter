@@ -1,6 +1,6 @@
 # SPOJcounter
 
-###### 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+###### English
 It is a program for counting how many exercises you've done on polish SPOJ.
 The program works based on web-scraping - a method in which the program acts like a web browser, but instead of showing the web page, it's data is written to a variable, to later make use of it. You only need to provide a username, and the program will do the rest.
 
@@ -31,7 +31,7 @@ You can pass arguments to the program. For example you can use it with data stre
 python SPOJcounter.py --help
 ```
 
-###### 🇵🇱
+###### Polski
 Jest to program do zliczania wykonanych zadań na polskim SPOJ'u. 
 Działa on na zasadzie Web Scraping'u, czyli metodzie w której program zachowuje się jak użytkownik przeglądarki i pobiera interesujące go dane z witryny.
 Wystarczy tylko podać nazwę użytkownika, a program sam zrobi resztę.
